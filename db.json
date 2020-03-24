@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "label": "Item3",
+      "important": true,
+      "done": false
+    },
+    {
+      "label": "item1",
+      "important": true,
+      "done": false,
+      "id": 3
+    },
+    {
+      "label": "dadasdas",
+      "important": true,
+      "done": true,
+      "id": 4
+    }
+  ]
+}
